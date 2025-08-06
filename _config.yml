@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Tutan Fowlis"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile.jpg"
   bio    : "C++/C# developer versed in back and front end software development. Former naval Cryptologist."
   links:
     - label: "Website"
