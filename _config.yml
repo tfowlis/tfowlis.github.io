@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Tutan Fowlis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "C++/C# developer versed in back and front end software development. Former naval Cryptologist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,7 +73,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tfowlis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
