@@ -14,11 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BLK_MTN Blog Page
-email:
+email: connect.blkmtn@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am an aspiring software developer, with roughly 10 years(on and off) experience in programming. I have worked with C++, C#, Vulkan,Avalonia,SDL, and various
+  other libraries for a plethora of small projects. I am currently working on my first large project, BLK_MTN. BLK_MTN is a software and hardware suite designed
+  to allow for communications in high risk, heavily degraded, or low service environments. If any readers would like to know more, feel free to contact my email.
+
+  I am also a military veteran. I served 6 years onboard the USS Nitze(DDG 94(. I was a CTT, or Cryptologic Technician - Technical. My main job was the analysis
+  of non-communicatoins systems, working closely with other intelligence professionals to allow decisionmakers to stay informed, and ahead of the enemy.
 twitter_username: username
 github_username: Tfowlis
 minimal_mistakes_skin: dark
